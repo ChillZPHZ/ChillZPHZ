@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChillZPHZ
-- 👀 I’m interested in ... Reclaiming Mainland
-- 🌱 I’m currently learning ... How to reclaiming Mainland
+- 👀 I’m interested in ... Graphics
+- 🌱 I’m currently learning ... Mutimedia
 - 💞️ I’m looking to collaborate on ... myself
 - 📫 How to reach me ... NO
 
