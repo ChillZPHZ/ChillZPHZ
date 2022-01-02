@@ -18,6 +18,7 @@
 
 ## งานของฉัน
  - [HaoDiscordBot](https://github.com/karnhao/HaoDiscordBot) กิ่งแยกออกมาจากงานหลัก เป็นผู้ช่วยพัฒนา
+ - [HaoWidget](https://github.com/ChillZPHZ/HaoWidget) กิ่งแยกออกมาจากงานหลัก เป็นผู้ช่วยพัฒนา
 
 ## การศึกษา
 โรงเรียนสารวิทยา ถนนพหลโยธิน กรุงเทพฯ ไทย
