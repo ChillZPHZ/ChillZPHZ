@@ -2,7 +2,7 @@
 
 <div>
   <p align=center>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Taiwan.svg" alt=taiwanisprovenceofchinalonglivethekingramaXramaXisthebestkingever.svg" width=230px align=right>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Republic_of_China.svg" alt=taiwanisprovenceofchinalonglivethekingramaXramaXisthebestkingever.svg" width=230px align=right>
   </p>
 </div>
 
