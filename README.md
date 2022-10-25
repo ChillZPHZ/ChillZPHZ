@@ -24,7 +24,7 @@
 ## งานของฉัน
  - [HaoDiscordBot](https://github.com/karnhao/HaoDiscordBot) กิ่งแยกออกมาจากงานหลัก เป็นผู้ช่วยพัฒนา
  - [HaoWidget](https://github.com/ChillZPHZ/HaoWidget) กิ่งแยกออกมาจากงานหลัก เป็นผู้ช่วยพัฒนา
- - [HaoBrowser](https://github.com/ChillZPHZ/HaoBrowser)เป็นผู้พัฒนา
+ - [HaoBrowser](https://github.com/ChillZPHZ/HaoBrowser) เป็นผู้พัฒนา
 
 ## การศึกษา
 โรงเรียนสารวิทยา ถนนพหลโยธิน กรุงเทพมหานครฯ ราชอาณาจักรไทย ทวิปเอเชีย แผ่นมหาทวิปแอฟโรยูเรเชีย ดาวเคราะห์โลก ดาวเคราะห์ชั้นใน ระบบสุริยะจักรวาล กาแล็กซี่ทางช้างเผือก 
